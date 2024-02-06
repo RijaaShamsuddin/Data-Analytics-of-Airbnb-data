@@ -1,8 +1,11 @@
-1 Pre-requisite
+**1 Pre-requisite
+**
 • Understanding of Python, Power BI or Tableau
 • Understanding of Data Cleaning
 • Understanding Data Visualization
-1.0.1 Data Analytics of Airbnb Data:
+
+**1.0.1 Data Analytics of Airbnb Data:
+**
 Objective: In this exericise, you will be performing Data Analytics on an Open Dataset dataset
 coming from Airbnb. Some of the tasks include - Data Cleaning. - Data Transformation - Data
 Visualization.
